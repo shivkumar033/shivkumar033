@@ -21,20 +21,18 @@ I enjoy breaking applications ethically to uncover critical flaws, Automating se
 ---
 
 🧰 **Tech & Tools I Use**
-- 🔐 **Web Security Testing:** Burp Suite, OWASP ZAP, FFUF, Dirsearch, Arjun, SQLmap, XSStrike, Dalfox, Nuclei
+- 🔐 **Web Security Testing:** Burp Suite, OWASP ZAP, Nessus, FFUF, Arjun, SQLmap, Nuclei
 - 🧪 **Vulnerability Testing:** Manual testing, OWASP Top 10, IDOR, CSRF, XSS, SSRF, SQL Injection, Business Logic Flaws
-- 🌐 **API Security:** Postman, JWT Tool, Interactsh, API authorization & authentication testing
 - 🚀 **DevSecOps & CI/CD:** Jenkins, Docker, CI/CD pipeline hardening
 - 🛡️ **Security Scanning:** Trivy, OWASP Dependency-Check, Snyk, SonarQube, Gitleaks
 - 🔄 **Secure SDLC:** Secure code review, threat modeling, secrets management, security gates
 - 🧑‍💻 **Automation & Scripting:** Python, Bash, YAML, basic JavaScript for security automation
-- 🖥️ **Platforms & Tools:** Linux (Kali, Ubuntu, Parrot), Git, GitHub, VS Code, Docker
+- 🖥️ **Platforms & Tools:** Linux, Git, GitHub, Docker
 
 ---
 
 🧪 **Ongoing Projects**
-- .......................
-
+-
 ---
 
 📬 **Let's Connect**
